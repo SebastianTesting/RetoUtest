@@ -20,6 +20,9 @@ Para la realizacion de este proyecto se uso como guia esta serie de videos y doc
 •https://serenity-bdd.github.io/theserenitybook/latest/screenplay-selenium-tasks.html
 
  **hay un problema NO se muestra el reporte de test de serenity**
+ 
+ ![image](https://user-images.githubusercontent.com/91759832/135690732-27b80105-0ab2-4d4a-aa95-dde72ce8cf80.png)
+
 
 ![image](https://user-images.githubusercontent.com/91759832/135690462-c4ac8c66-981a-4f34-81b4-17f3cdda7edb.png)
 
