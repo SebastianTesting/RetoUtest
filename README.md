@@ -9,7 +9,7 @@ Proyecto realizado con:
       -Tipo de proyecto: GRADLE,
       -Driver: Chrome Versión 94.0.4606.71, 
       -IDE: IntelliJ 
-      
+      -Patron: screenplay
       
       
       
