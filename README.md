@@ -2,9 +2,8 @@
 
 **Ejecicio de Automatización, para la pagina Utest, registrando un nuevo usuario.**
 
-Proyecto realizado con:  
-•	HU: CUCUMBER   
-•	lenguaje GERKIN     
+Proyecto realizado con:   
+•	lenguaje: GERKIN     
 •	Framework: SERENITY BDD  
 •	Tipo de proyecto: GRADLE     
 •	IDE: IntelliJ  
