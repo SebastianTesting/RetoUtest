@@ -3,13 +3,13 @@
 Ejecicio de Automatización, para la pagina Utest, registrando un nuevo usuario.
 
 Proyecto realizado con:
-      -HU: CUCUMBER, 
+      **HU: CUCUMBER, 
       -lenguaje GERKIN, 
       -Framework: SERENITY BDD,
       -Tipo de proyecto: GRADLE,
       -Driver: Chrome Versión 94.0.4606.71, 
       -IDE: IntelliJ 
-      -Patron: screenplay
+      -Patron: screenplay**
       
       
       
