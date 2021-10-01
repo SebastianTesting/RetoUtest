@@ -6,10 +6,10 @@ Proyecto realizado con:
 •	HU: CUCUMBER   
 •	lenguaje GERKIN     
 •	Framework: SERENITY BDD  
-•	Tipo de proyecto: GRADLE 
-•	Driver: Chrome Versión 94.0.4606.71     
+•	Tipo de proyecto: GRADLE     
 •	IDE: IntelliJ  
 •	Patron: screenplay  
+•	Driver: Chrome Versión 94.0.4606.71 
 
       
       
